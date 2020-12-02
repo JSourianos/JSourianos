@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, friend 👋
+
+My name is Thomas J. Sourianos and I am a Student Developer at Høyskolen Kristiania!
+
+### Technologies I have experience with
+
+
+### Extras
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+
 
 <!--
 **JSourianos/JSourianos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
