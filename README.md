@@ -6,7 +6,7 @@ My name is Thomas J. Sourianos and I am a Student Developer at Høyskolen Kristi
 
 
 ### Extras
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSourianos&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSourianos&theme=dark" />
 
 
 
