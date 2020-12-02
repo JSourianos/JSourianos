@@ -10,7 +10,6 @@ My name is Thomas J. Sourianos and I am a Student Developer at Høyskolen Kristi
 ### Funfacts 😄
 Alongside being a student, I also produce music, and have been doing so the past 6 years!
 
-### Extras ⚡
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSourianos&theme=dark" />
 
 
