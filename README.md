@@ -5,7 +5,7 @@ My name is Thomas J. Sourianos and I am a Student Developer at Høyskolen Kristi
 ### Technologies I have experience with 🌱
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 ### Funfacts 😄
 Alongside being a student, I also produce music, and have been doing so the past 6 years!
