@@ -1,4 +1,4 @@
-### Hello, friend 👋
+### Hello 👋
 
 My name is Thomas J. Sourianos and I am a Student Developer studying at Høyskolen Kristiania!
 
