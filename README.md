@@ -11,7 +11,7 @@ My name is Thomas J. Sourianos and I am a Student Developer studying at Høyskol
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ### Funfacts 😄
-Alongside being a student, I also produce music, and have been doing so the past 6 years!
+Alongside being a student I also produce music, and have been doing so the past 6 years!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSourianos&theme=dark" />
 
