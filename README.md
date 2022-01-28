@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Thomas J. Sourianos and I am a Student Developer studying at Høyskolen Kristiania!
+My name is Thomas J. Sourianos and I am a Frontend & App Developer working for Moment!
 
 ### Technologies I have experience with 🌱
 
