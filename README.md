@@ -1,7 +1,6 @@
 ### Hello 👋
 
-My name is Thomas J. Sourianos and I am a Frontend & App Developer working for Moment!
-
+My name is Thomas J. Sourianos and I am a Full Stack & Mobile App developer at Milient Software.
 ### Technologies I have experience with 🌱
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -13,7 +12,7 @@ My name is Thomas J. Sourianos and I am a Frontend & App Developer working for M
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ### Funfacts 😄
-Alongside being a student I also produce music, and have been doing so the past 7 years!
+Alongside being a developer I also produce music, and have been doing so the past 7 years!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSourianos&theme=dark" />
 
