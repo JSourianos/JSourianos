@@ -13,9 +13,9 @@ My name is Thomas J. Sourianos and I am a Full Stack & Mobile App developer at M
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ### Funfacts 😄
 Alongside being a developer I also produce music, and have been doing so the past 7 years!
-
+<!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSourianos&theme=dark" />
-
+-->
 
 
 <!--
